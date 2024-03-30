@@ -1,16 +1,45 @@
-# comics_app
+# FlutterComics
 
-A new Flutter project.
+FlutterComics est une application mobile développée avec Flutter, concue pour répertorier comics, films et series.
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- **Découverte :** Comics et séries populaires sur la page d'acceuil
+- **Détails :** Retrouvez de nombreux détails sur tout vos films, series, comics et personnages préférés.
+- **Recherche :** Recherchez et retrouvez en quelques secondes vos comics, personnages, films et series préférés pour avoir toutes leurs infos
 
-A few resources to get you started if this is your first Flutter project:
+## Démarrage rapide
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pour lancer FlutterComics sur votre ordinateur, suivez ces étapes :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+### Prérequis ( Mes settings )
+
+- Flutter (Version 3.19.3) 
+- Dart (Version 3.3.1)
+- Un émulateur Android/iOS ou un appareil physique
+- Tests effectués sur téléphone IOS ( Iphone 13 pro max ) 
+
+### Installation
+
+1. Clonez le dépôt GitHub :
+   git clone https://github.com/Swapp1/FlutterComics.git
+2. Ouvrez le projet, allez directement au dossier du projet :
+   cd FlutterComics
+3. Installez les dépendances :
+   flutter pub get
+4. Lancez l'application sur un émulateur ou un appareil physique :
+   Flutter run
+
+## Auteurs
+
+- **Arthur Feingold** - 
+- **Victoire Lebreton** -
+- **Gaspard Montanteme** -
+
+## Lien vers une vidéo de démo :
+
+
+
+
