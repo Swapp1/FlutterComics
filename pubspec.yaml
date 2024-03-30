@@ -1,5 +1,5 @@
 name: comics_app
-description: "A new Flutter project."
+description: "Comics-app"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -54,22 +54,9 @@ dev_dependencies:
   retrofit_generator: ^8.1.0
   json_serializable: any
   build_runner: ^2.4.8
-  flutter_launcher_icons: ^0.13.1
-  # The "flutter_lints" package below contains a set of recommended lints to
-  # encourage good coding practices. The lint set provided by the package is
-  # activated in the `analysis_options.yaml` file located at the root of your
-  # package. See that file for information about deactivating specific lint
-  # rules and activating additional ones.
   flutter_lints: ^3.0.0
 
-flutter_icons:
-  android: true 
-  ios: true
-  image_path: "assets/png/logo.png"
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
 
-# The following section is specific to Flutter packages.
 flutter:
   uses-material-design: true
 
