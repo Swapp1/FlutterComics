@@ -40,6 +40,7 @@ Pour lancer FlutterComics sur votre ordinateur, suivez ces étapes :
 
 ## Lien vers une vidéo de démo :
 
+https://www.youtube.com/watch?v=AdB8Y7bcgC4
 
 
 
