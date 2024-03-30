@@ -104,12 +104,6 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "cli_util",
-      "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/cli_util-0.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "clock",
       "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/clock-1.1.1",
       "packageUri": "lib/",
@@ -206,12 +200,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "flutter_launcher_icons",
-      "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "flutter_lints",
       "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/flutter_lints-3.0.1",
       "packageUri": "lib/",
@@ -288,12 +276,6 @@
       "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "image",
-      "rootUri": "file:///Users/artfeing/.pub-cache/hosted/pub.dev/image-4.1.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
     },
     {
       "name": "intl",
@@ -680,7 +662,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-03-30T18:12:19.423151Z",
+  "generated": "2024-03-30T18:12:57.041088Z",
   "generator": "pub",
   "generatorVersion": "3.3.1"
 }
